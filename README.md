@@ -20,7 +20,3 @@ This app fetches real-time weather data from the OpenWeatherMap API and presents
 - OpenWeatherMap API 🌐
 - HTML5 + CSS3 🎨
 
-## 💻 Installation and Usage
-1️⃣ Clone this repository:
-```bash
-
